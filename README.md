@@ -16,4 +16,4 @@ Requires python 3.9
 - Place `biosamples-annotation-dg-32fd479a2039.json` in this project's `local` directory
 - [Install the poetry application if necessary](https://python-poetry.org/docs/#installation)
 - Use poetry to install the project dependencies: `poetry install`
-- Run some code to print out a sample Google Sheet: `make all`
+- Run some code to print out a sample Google Sheet: `make print_sheet`
