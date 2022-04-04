@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "pygsheets-examples"
+version = "0.1.0"
+description = "examples for people new to pygsheets, from https://pygsheets.readthedocs.io/en/stable/"
+authors = ["Mark Andrew Miller <MAM@lbl.gov>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+pygsheets = "^2.0.5"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
