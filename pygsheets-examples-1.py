@@ -3,9 +3,7 @@ import pygsheets
 
 
 # also requires pandas
-# service_account_credentials_json = '/Users/MAM/Downloads/biosamples-annotation-dg-32fd479a2039.json'
-# # see https://pygsheets.readthedocs.io/en/stable/authorization.html
-# # and https://github.com/ontodev/cogs#credentials
+
 
 # bad practices: prints sheet contents instead of using a logger or saving to a file
 # the sheet name should probably also be a click argument
